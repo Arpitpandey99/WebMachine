@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My ML App</title>
+</head>
+<body>
+<center>
+    <h1 style="font-size: 60px; color: rebeccapurple; font-family: monospace;">Welcome to AI ML Project</h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        <h1>Enter YOur Skills</h1>
+        <input type="text" style="width: 250px; height: 20px;" name="s1" placeholder="Skill: 1" required /><br><br>
+        <input type="text" style="width: 250px; height: 20px;" name="s2" placeholder="Skill: 2"  required /><br><br>
+        <input type="text" style="width: 250px; height: 20px;" name="s3" placeholder="Skill: 3" required /><br><br>
+
+        <input type="submit" value="Search" />
+    </form>
+
+</center>
+</body>
+</html>
