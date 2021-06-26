@@ -3,3 +3,4 @@ I made a project using data analysis (Pandas) and Django (For Backend) . In this
 
 
 ### Objective
+#### Objective of this project is to create a website which will tell the Number of jobs available by the Data which is scapped from a website using webscraping (bs4 and nltk).
