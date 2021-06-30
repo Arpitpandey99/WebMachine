@@ -3,4 +3,4 @@
 
 
 ### Objective
-#### Objective of this project is to create a website which will tell the Number of jobs available by the Data which is scapped from a website using web scrapping (bs4 and nltk).
+#### Objective of this project is to create a website which will tell the number of jobs available by the Data which is scapped from a website using web scrapping (bs4 and nltk).
